@@ -1,5 +1,5 @@
 ---
-- name: Prelim Exam
+- name: Prelim Exams
   hosts: managenode
   become: true
   tasks:
